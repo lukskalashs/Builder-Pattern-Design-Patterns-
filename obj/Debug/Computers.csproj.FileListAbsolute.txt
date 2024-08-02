@@ -1,0 +1,11 @@
+T:\Computers\bin\Debug\Computers.exe.config
+T:\Computers\bin\Debug\Computers.exe
+T:\Computers\bin\Debug\Computers.pdb
+T:\Computers\obj\Debug\Computers.csprojAssemblyReference.cache
+T:\Computers\obj\Debug\Computers.CfrmMain.resources
+T:\Computers\obj\Debug\Computers.Properties.Resources.resources
+T:\Computers\obj\Debug\Computers.csproj.GenerateResource.cache
+T:\Computers\obj\Debug\Computers.csproj.CoreCompileInputs.cache
+T:\Computers\obj\Debug\Computers.exe
+T:\Computers\obj\Debug\Computers.pdb
+T:\Computers\obj\Debug\Computers.CdlgMessage.resources
