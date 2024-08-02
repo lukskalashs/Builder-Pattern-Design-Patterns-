@@ -17,6 +17,9 @@ This Windows Forms application simulates a computer shop where users can view an
 - `BareboneBuilder.cs`, `HomeComputerBuilder.cs`, etc.: Concrete builders implementing `AC‌​omputerBuilder.cs` to set specific attributes of each computer type.
 - `CdlgMessage.cs`: Custom form for displaying computer details using Consolas 12pt font.
 
+## Class Diagram
+![Class Diagram](screenshots/gameplay.png)
+
 ## Disclaimer
 
 This application is created as an educational exercise to demonstrate software design patterns and does not represent actual computer configurations available for sale.
