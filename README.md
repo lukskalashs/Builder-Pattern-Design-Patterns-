@@ -18,7 +18,7 @@ This Windows Forms application simulates a computer shop where users can view an
 - `CdlgMessage.cs`: Custom form for displaying computer details using Consolas 12pt font.
 
 ## Class Diagram
-![Class Diagram](screenshots/gameplay.png)
+![Class Diagram](Class_Diagram.png)
 
 ## Disclaimer
 
